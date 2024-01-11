@@ -2,7 +2,7 @@
 
 
 build:
-	jupyter lite build --contents content
+	jupyter lite build
 
 serve:
 	jupyter lite serve
