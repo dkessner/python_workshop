@@ -5,4 +5,3 @@ channels:
 dependencies:
   - ipycanvas
   - pandas
-  - requests
